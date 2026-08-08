@@ -1,5 +1,3 @@
-حتماً. این README را برای **همین پروژه Nexora** و با نام **Farhad Alizahi** آماده کردم؛ ساختارش هم برای GitHub و ارائه در رزومه حرفه‌ای‌تر نوشته شده است.
-
 # 🚀 Nexora-Multi-Tenant-SaaS-Platform
 
 
