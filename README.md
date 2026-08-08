@@ -1,6 +1,7 @@
-حتماً. این README را برای **همین پروژه Nextacular** و با نام **Farhad Alizahi** آماده کردم؛ ساختارش هم برای GitHub و ارائه در رزومه حرفه‌ای‌تر نوشته شده است.
+حتماً. این README را برای **همین پروژه Nexora** و با نام **Farhad Alizahi** آماده کردم؛ ساختارش هم برای GitHub و ارائه در رزومه حرفه‌ای‌تر نوشته شده است.
 
-# 🚀 Nextacular — Multi-Tenant SaaS Platform
+# 🚀 Nexora-Multi-Tenant-SaaS-Platform
+
 
 <p align="center">
   <strong>A modern, scalable, and production-oriented SaaS platform built with Next.js and TypeScript.</strong>
